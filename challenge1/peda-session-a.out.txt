@@ -1,0 +1,5 @@
+break main
+break encode
+break map_to_b64enc
+break /home/pz/Projects/cryptopals/c1.c:95
+
